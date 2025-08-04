@@ -1,0 +1,1 @@
+python model_merger.py merge --backend fsdp --local_dir xxxx/actor --target_dir xxxx/model_merge --hf_model_path xxxx/Qwen/Qwen2.5-7B-Instruct

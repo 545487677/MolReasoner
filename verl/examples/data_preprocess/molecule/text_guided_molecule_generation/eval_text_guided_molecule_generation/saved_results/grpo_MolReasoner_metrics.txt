@@ -1,0 +1,12 @@
+🔬 Evaluation Metrics
+=====================
+📘 BLEU Score (↑): 0.7841
+🎯 Exact InChI Match (↑): 0.0758
+✏️ Avg Levenshtein  (↓): 26.9255
+🔗 RDK Similarity (↑): 0.4373
+🔗 MACCS Similarity (↑): 0.6759
+🔗 Morgan Similarity (↑): 0.3627
+🧩 Frag-Jaccard Overlap (↑): 0.5213
+🧩 Frag Recall (↑): 0.6414
+🧪 FG-Diff (Functional Group Similarity) (↑): 0.5390
+✅ Validity (↑): 0.9679
