@@ -132,16 +132,5 @@ outputs
 *png
 *json
 *jsonl
-examples/data_preprocess/molecule/eval_desc2mol/eval_results
-!data/desc2mol/*/*.json
-!data/desc2mol/*/*.jsonl
-!data/desc2mol/*/*.parquet
-examples/data_preprocess/molecule/eval_mol2desc/eval_results
-!data/mol2desc/*/*.json
-!data/mol2desc/*/*.jsonl
-!data/mol2desc/*/*.parquet
-examples/data_preprocess/molecule/Mol_Instruction_desc2mol_process/eval_desc2mol/eval_results
-examples/data_preprocess/molecule/Chembl_desc2mol_process/eval_desc2mol/eval_results
-examples/data_preprocess/molecule/Chembl_mol2desc_process/eval_mol2desc/eval_results
-# !examples/data_preprocess/molecule/Chembl_desc2mol_process/eval_desc2mol/saved_results/*.json
-# !examples/data_preprocess/molecule/Chembl_desc2mol_process/eval_desc2mol/saved_results/*.jsonl
+!# Do not ignore the following files
+!verl/examples/data_preprocess
