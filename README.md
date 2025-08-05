@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs</h1>
     <p align="center">
-  📖<a href="https://arxiv.org/submit/6677689/view">Paper</a> |
+  📖<a href="https://arxiv.org/abs/2508.02066">Paper</a> |
   🤗<a href="https://huggingface.co/datasets/guojianz/MolReasoner">Datasets</a> | 
   🤗<a href="https://huggingface.co/guojianz/MolReasoner">Models Weights (Huggingface)</a> | 
   🤖<a 
@@ -375,7 +375,15 @@ We hope MolReasoner not only serves as a strong baseline but also inspires the c
 ## ✒️Citation
 
 ```
-TODO
+@misc{zhao2025molreasonereffectiveinterpretablereasoning,
+      title={MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs}, 
+      author={Guojiang Zhao and Sihang Li and Zixiang Lu and Zheng Cheng and Haitao Lin and Lirong Wu and Hanchen Xia and Hengxing Cai and Wentao Guo and Hongshuai Wang and Mingjun Xu and Siyu Zhu and Guolin Ke and Linfeng Zhang and Zhifeng Gao},
+      year={2025},
+      eprint={2508.02066},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2508.02066}, 
+}
 ```
 
 ## Acknowledgement
