@@ -23,8 +23,11 @@ The illustrations are shown below:
 - 🚀 [05/21/2025] We updata the trainer of **Visual-RFT** to support both Qwen2-VL and Qwen2.5-VL. And we support multi-image inputs with `grpo_trainer_mp.py`.
 - 🚀 [05/20/2025] We release **Visual-ARFT** repository <a href="https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT">Repo-URL</a>: A RFT framework dedicated to enhancing the **multimodal agentic capabilities of LVLMs**. (Support Qwen2-VL and Qwen2.5-VL)
 - 🚀 [03/12/2025] We release the code of **Visual-RFT** to build the <a href="https://github.com/Liuziyu77/Visual-RFT/tree/main/dataset">dataset</a> on your own data.
+
+
 - 🚀 [03/04/2025] We release our **Visual-RFT's** <a href="https://arxiv.org/abs/2503.01785">Paper</a>. -->
 
+- 🚀 [08/05/2025] We release our **MolReasoner's** <a href="https://arxiv.org/abs/2508.02066">Paper</a>.
 - 🚀 [08/05/2025] We upload our checkpoints of **MolReasoner** to <a href="https://huggingface.co/guojianz/MolReasoner">Huggingface</a>.
 - 🚀 [08/04/2025] We upload our checkpoints of **MolReasoner** to <a href="https://modelscope.cn/models/cody545487677/MolReasoner/">ModelScope</a>.
 - 🚀 [08/04/2025] We upload our training datasets of **MolReasoner** to <a href="https://huggingface.co/datasets/guojianz/MolReasoner">Huggingface</a>.
@@ -376,13 +379,13 @@ We hope MolReasoner not only serves as a strong baseline but also inspires the c
 
 ```
 @misc{zhao2025molreasonereffectiveinterpretablereasoning,
-      title={MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs}, 
+      title={MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs},
       author={Guojiang Zhao and Sihang Li and Zixiang Lu and Zheng Cheng and Haitao Lin and Lirong Wu and Hanchen Xia and Hengxing Cai and Wentao Guo and Hongshuai Wang and Mingjun Xu and Siyu Zhu and Guolin Ke and Linfeng Zhang and Zhifeng Gao},
       year={2025},
       eprint={2508.02066},
       archivePrefix={arXiv},
       primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2508.02066}, 
+      url={https://arxiv.org/abs/2508.02066},
 }
 ```
 
