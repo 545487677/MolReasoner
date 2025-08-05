@@ -25,6 +25,7 @@ The illustrations are shown below:
 - 🚀 [03/12/2025] We release the code of **Visual-RFT** to build the <a href="https://github.com/Liuziyu77/Visual-RFT/tree/main/dataset">dataset</a> on your own data.
 - 🚀 [03/04/2025] We release our **Visual-RFT's** <a href="https://arxiv.org/abs/2503.01785">Paper</a>. -->
 
+- 🚀 [08/05/2025] We upload our checkpoints of **MolReasoner** to <a href="https://huggingface.co/guojianz/MolReasoner">Huggingface</a>.
 - 🚀 [08/04/2025] We upload our checkpoints of **MolReasoner** to <a href="https://modelscope.cn/models/cody545487677/MolReasoner/">ModelScope</a>.
 - 🚀 [08/04/2025] We upload our training datasets of **MolReasoner** to <a href="https://huggingface.co/datasets/guojianz/MolReasoner">Huggingface</a>.
 - 🚀 [08/04/2025] We release **MolReasoner** repository and our training, inference and evaluation code.
